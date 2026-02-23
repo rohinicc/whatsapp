@@ -5,6 +5,6 @@ package org.jsp;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("woo ju ru julake");
+        System.out.println("woo ju is cute");
     }
 }
